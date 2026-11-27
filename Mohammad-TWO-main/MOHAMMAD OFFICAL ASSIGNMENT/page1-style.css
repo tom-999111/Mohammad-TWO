@@ -1,0 +1,53 @@
+body {
+    background-image: url(Assets/LIGHTNING.png);
+    background-repeat:repeat;
+}
+
+h1, p {
+    text-align: center;
+}
+
+h1, p {
+    padding: 10px;
+    border: 1px solid blue;
+}
+
+.heading { font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+    text-align: center;
+}
+
+body { font-family: sans-serif; }
+.title { font-size: 2rem; }
+#lead { color: #444; }
+a { text-decoration: none; }
+a:hover { text-decoration: underline; }
+
+.heading:hover {
+  font-size: 80px;
+
+}
+
+li {
+
+text-align: right;
+
+}
+
+a {
+    color:red;
+}
+
+img {
+    place-content: right;
+    text-align: right;
+}
+
+h2 {
+place-content: right;
+    text-align: right;
+}
+
+
+
